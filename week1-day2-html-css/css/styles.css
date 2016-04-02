@@ -1,0 +1,20 @@
+header {
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+.left-column {
+	clear: both;
+	float: left;
+	margin-left: 100px;
+	width: 60%;
+}
+img {
+	float: left;
+}
+
+p {
+	margin-left: 155px; /* just because I know the width of the image */
+}
